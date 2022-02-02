@@ -1,1 +1,1 @@
-# economy_modeler
+# Economy Model
